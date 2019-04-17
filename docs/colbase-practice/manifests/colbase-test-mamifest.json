@@ -11,7 +11,7 @@
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "[Click to edit attribution]",
+	"attribution": "[「国立博物館所蔵品統合検索システム」（国立文化財機構）（https://colbase.nich.go.jp/collectionItems/view/12f08f3c06a62af80737925634848303/22039）を加工して作成 ]",
 	"sequences": [
 		{
 			"@id": "https://ta-niiyan.github.io/IIIFpractice/colbase-practice/manifests/colbase-test-mamifest.json/sequence/normal",
