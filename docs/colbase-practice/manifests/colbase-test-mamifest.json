@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://ako.earth/colbase_test_mamifest.json",
+	"@id": "https://github.com/ta-niiyan/IIIFpractice/colbase-practice/manifests/colbase-test-mamifest.json",
 	"@type": "sc:Manifest",
 	"label": "test from ColBase",
 	"metadata": [],
@@ -14,7 +14,7 @@
 	"attribution": "[Click to edit attribution]",
 	"sequences": [
 		{
-			"@id": "https://ako.earth/colbase_test_mamifest.json/sequence/normal",
+			"@id": "https://github.com/ta-niiyan/IIIFpractice/colbase-practice/manifests/colbase-test-mamifest.json/sequence/normal",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -24,7 +24,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "https://ako.earth/colbase_test_mamifest.json/canvas/p1",
+					"@id": "https://github.com/ta-niiyan/IIIFpractice/colbase-practice/manifests/colbase-test-mamifest.json/canvas/p1",
 					"@type": "sc:Canvas",
 					"label": "1st image",
 					"height": 932,
@@ -32,7 +32,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "https://ako.earth/colbase_test_mamifest.json/annotation/p1-image",
+							"@id": "https://github.com/ta-niiyan/IIIFpractice/colbase-practice/manifests/colbase-test-mamifest.json/annotation/p1-image",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -42,7 +42,7 @@
 								"height": 932,
 								"width": 415
 							},
-							"on": "https://ako.earth/colbase_test_mamifest.json/canvas/p1"
+							"on": "https://github.com/ta-niiyan/IIIFpractice/colbase-practice/manifests/colbase-test-mamifest.json/canvas/p1"
 						}
                     ],
                     "thumnail":{
